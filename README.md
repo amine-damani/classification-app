@@ -40,7 +40,7 @@ To deploy this project run:
 ```
 
 ```bash
-php composer install
+composer install
 docker-compose exec php /var/www/html/artisan migrate
 docker-compose exec php /var/www/html/artisan seed
 ```
