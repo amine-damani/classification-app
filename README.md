@@ -44,6 +44,10 @@ composer install
 php artisan migrate
 php artisan seed
 ```
+```bash
+npm install
+npm run dev
+```
 
 Permissions Issues:
 ```bash
