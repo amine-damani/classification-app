@@ -993,35 +993,27 @@ var render = function () {
                     [_vm._v("Email")]
                   ),
                   _vm._v(" "),
-                  _c(
-                    "input",
-                    _vm._b(
+                  _c("input", {
+                    directives: [
                       {
-                        directives: [
-                          {
-                            name: "model",
-                            rawName: "v-model",
-                            value: _vm.auth.email,
-                            expression: "auth.email",
-                          },
-                        ],
-                        staticClass: "form-control",
-                        attrs: { type: "text", name: "email", id: "email" },
-                        domProps: { value: _vm.auth.email },
-                        on: {
-                          input: function ($event) {
-                            if ($event.target.composing) {
-                              return
-                            }
-                            _vm.$set(_vm.auth, "email", $event.target.value)
-                          },
-                        },
+                        name: "model",
+                        rawName: "v-model",
+                        value: _vm.auth.email,
+                        expression: "auth.email",
                       },
-                      "input",
-                      _vm.auth.email,
-                      false
-                    )
-                  ),
+                    ],
+                    staticClass: "form-control",
+                    attrs: { type: "text", name: "email", id: "email" },
+                    domProps: { value: _vm.auth.email },
+                    on: {
+                      input: function ($event) {
+                        if ($event.target.composing) {
+                          return
+                        }
+                        _vm.$set(_vm.auth, "email", $event.target.value)
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-12 mb-2" }, [
@@ -1034,39 +1026,31 @@ var render = function () {
                     [_vm._v("Password")]
                   ),
                   _vm._v(" "),
-                  _c(
-                    "input",
-                    _vm._b(
+                  _c("input", {
+                    directives: [
                       {
-                        directives: [
-                          {
-                            name: "model",
-                            rawName: "v-model",
-                            value: _vm.auth.password,
-                            expression: "auth.password",
-                          },
-                        ],
-                        staticClass: "form-control",
-                        attrs: {
-                          type: "password",
-                          name: "password",
-                          id: "password",
-                        },
-                        domProps: { value: _vm.auth.password },
-                        on: {
-                          input: function ($event) {
-                            if ($event.target.composing) {
-                              return
-                            }
-                            _vm.$set(_vm.auth, "password", $event.target.value)
-                          },
-                        },
+                        name: "model",
+                        rawName: "v-model",
+                        value: _vm.auth.password,
+                        expression: "auth.password",
                       },
-                      "input",
-                      _vm.auth.email,
-                      false
-                    )
-                  ),
+                    ],
+                    staticClass: "form-control",
+                    attrs: {
+                      type: "password",
+                      name: "password",
+                      id: "password",
+                    },
+                    domProps: { value: _vm.auth.password },
+                    on: {
+                      input: function ($event) {
+                        if ($event.target.composing) {
+                          return
+                        }
+                        _vm.$set(_vm.auth, "password", $event.target.value)
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "col-12 mb-2" }, [
