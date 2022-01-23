@@ -38,16 +38,13 @@ To deploy this project run:
 ```bash
   docker-compose up -d
 ```
-
+Access to container bash and execute
 ```bash
 composer install
-docker-compose exec php /var/www/html/artisan migrate
-docker-compose exec php /var/www/html/artisan seed
+php artisan migrate
+php artisan seed
 ```
 
-```bash
-  docker-compose build
-```
 Permissions Issues:
 ```bash
 chmod -R gu+w storage
