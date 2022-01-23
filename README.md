@@ -61,3 +61,8 @@ Ports detailed:
 - **mysql** - `:3310`
 - **php** - `:9000`
 - **nodejs** - `:3000`
+
+Run:
+```bash
+http://localhost:8081/
+```
