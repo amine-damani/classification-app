@@ -47,24 +47,24 @@ Ports detailed:
 
 ## screenshot
 ### User List No Auth:
-![User List No Auth](http://placekitten.com/200/300?style=centerme)
+![User List No Auth](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/users_list_no_auth.png?raw=true)
 ----
 ### Group List:
-![Group List](http://placekitten.com/200/300?style=centerme)
+![Group List](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/groups_list.png?raw=true)
 ----
 ### User List With Auth:
-![User List With Auth](http://placekitten.com/200/300?style=centerme)
+![User List With Auth](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/users_list_auth.png?raw=true)
 ----
 ### Login page:
-![Login page](http://placekitten.com/200/300?style=centerme)
+![Login page](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/login_page.png?raw=true)
 ----
 ### Php Unite Test:
-![Php Unite Test](http://placekitten.com/200/300?style=centerme)
+![Php Unite Test](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/php_unite_test.png?raw=true)
 ----
 ## Demo
-![Demo 1](http://placekitten.com/200/300?style=centerme)
+![Demo 1](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/demo.gif?raw=true)
 ----
-![Demo 1](http://placekitten.com/200/300?style=centerme)
+![Demo 1](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/crud_test.gif?raw=true)
 ----
 
 
