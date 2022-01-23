@@ -40,9 +40,9 @@ To deploy this project run:
 ```
 
 ```bash
-docker-compose run --rm composer install
-docker-compose run --rm artisan migrate
-docker-compose run --rm artisan seed
+php composer install
+php artisan migrate
+php artisan seed
 ```
 
 ```bash
