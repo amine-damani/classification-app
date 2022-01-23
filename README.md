@@ -41,8 +41,8 @@ To deploy this project run:
 
 ```bash
 php composer install
-php artisan migrate
-php artisan seed
+docker-compose exec php /var/www/html/artisan migrate
+docker-compose exec php /var/www/html/artisan seed
 ```
 
 ```bash
