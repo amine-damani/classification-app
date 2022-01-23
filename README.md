@@ -5,31 +5,6 @@
 system for users classification users/group as a REST API
 
 
-## screenshot
-### User List No Auth:
-![User List No Auth](http://placekitten.com/200/300?style=centerme)
-----
-### Group List:
-![Group List](http://placekitten.com/200/300?style=centerme)
-----
-### User List With Auth:
-![User List With Auth](http://placekitten.com/200/300?style=centerme)
-----
-### Login page:
-![Login page](http://placekitten.com/200/300?style=centerme)
-----
-### Php Unite Test:
-![Php Unite Test](http://placekitten.com/200/300?style=centerme)
-----
-## Demo
-![Demo 1](http://placekitten.com/200/300?style=centerme)
-----
-![Demo 1](http://placekitten.com/200/300?style=centerme)
-----
-
-
-
-
 ## Installation
 
 To deploy this project run:
@@ -88,6 +63,3 @@ Ports detailed:
 ----
 ![Demo 1](https://raw.githubusercontent.com/amine-damani/classification-app/main/screenshot/crud_test.gif?raw=true)
 ----
-
->>>>>>> 6911cb7995bbbc4ef817865d9830714e174ac4f3
-
