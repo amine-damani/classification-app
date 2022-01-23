@@ -1,5 +1,5 @@
 
-# classification app (Docker + Ngnix + Mysql + Laravel8 + Php Unite + VueJS + OAuth2)
+# Classification App (Docker + Ngnix + Mysql + Laravel8 + Php Unite + VueJS + OAuth2)
 
 
 system for users classification users/group as a REST API
