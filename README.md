@@ -5,7 +5,27 @@
 system for users classification users/group as a REST API
 
 
-
+## screenshot
+### User List No Auth:
+![User List No Auth](http://placekitten.com/200/300?style=centerme)
+----
+### Group List:
+![Group List](http://placekitten.com/200/300?style=centerme)
+----
+### User List With Auth:
+![User List With Auth](http://placekitten.com/200/300?style=centerme)
+----
+### Login page:
+![Login page](http://placekitten.com/200/300?style=centerme)
+----
+### Php Unite Test:
+![Php Unite Test](http://placekitten.com/200/300?style=centerme)
+----
+## Demo
+![Demo 1](http://placekitten.com/200/300?style=centerme)
+----
+![Demo 1](http://placekitten.com/200/300?style=centerme)
+----
 
 
 
@@ -44,27 +64,5 @@ Ports detailed:
 - **mysql** - `:3310`
 - **php** - `:9000`
 - **nodejs** - `:3000`
-
-## screenshot
-### User List No Auth:
-![User List No Auth](http://placekitten.com/200/300?style=centerme)
-----
-### Group List:
-![Group List](http://placekitten.com/200/300?style=centerme)
-----
-### User List With Auth:
-![User List With Auth](http://placekitten.com/200/300?style=centerme)
-----
-### Login page:
-![Login page](http://placekitten.com/200/300?style=centerme)
-----
-### Php Unite Test:
-![Php Unite Test](http://placekitten.com/200/300?style=centerme)
-----
-## Demo
-![Demo 1](http://placekitten.com/200/300?style=centerme)
-----
-![Demo 1](http://placekitten.com/200/300?style=centerme)
-----
 
 
